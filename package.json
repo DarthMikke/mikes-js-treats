@@ -1,0 +1,11 @@
+{
+  "name": "mikes-js-treats",
+  "version": "1.0.0",
+  "description": "Simple JS utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michal Jan Warecki <mwarecki1@gmail.com>",
+  "license": "UNLICENSED"
+}
